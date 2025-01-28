@@ -1,0 +1,168 @@
+[01-Sep-2023 13:33:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:33:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:34:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:35:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:38:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:48:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:48:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:48:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:48:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:49:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 13:49:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 14:04:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 14:04:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8
+[01-Sep-2023 14:07:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/riblumac/eventhub.ribluma.com/includes/db.php:8
+Stack trace:
+#0 /home/riblumac/eventhub.ribluma.com/includes/db.php(8): mysqli->__construct('localhost', 'root', '', 'eventhub')
+#1 /home/riblumac/eventhub.ribluma.com/partials/header.php(4): require_once('/home/riblumac/...')
+#2 /home/riblumac/eventhub.ribluma.com/index.php(1): require('/home/riblumac/...')
+#3 {main}
+  thrown in /home/riblumac/eventhub.ribluma.com/includes/db.php on line 8

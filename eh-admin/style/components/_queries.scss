@@ -1,0 +1,14 @@
+@media only screen and (max-width: 768px) {
+
+  .nav-bar {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    display: none;
+  }
+
+  .nav-close {
+    display: block;
+  }
+
+}

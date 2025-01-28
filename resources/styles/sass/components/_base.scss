@@ -1,0 +1,77 @@
+html {
+    font-size: 62.5%;
+}
+
+
+
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: var(--primary-font);
+    scroll-behavior: smooth;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+*:focus {
+    outline: none !important;
+}
+
+body {
+    font-size: 1.2rem;
+    max-width: 100%;
+    background: var(--primary-color);
+    overflow-x: hidden;
+    padding-inline: 1rem;
+
+
+    // min-height: 100vh;
+    // min-width: 100%;
+    position: absolute;
+    inset: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: var(--primary-font);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--primary-border);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+input[type="color"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+select:focus,
+textarea {
+    font-size: 16px;
+}
